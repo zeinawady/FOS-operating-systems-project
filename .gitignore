@@ -1,3 +1,6 @@
-/bochs.log
+# Ignore Bochs log file
+bochs.log
+
+# Ignore build artifacts
 obj/
 *.img
