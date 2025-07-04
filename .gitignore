@@ -1,1 +1,3 @@
 /bochs.log
+obj/
+*.img
